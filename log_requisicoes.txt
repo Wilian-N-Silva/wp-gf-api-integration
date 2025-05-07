@@ -1,0 +1,115 @@
+[2025-05-06 23:18:30] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-14.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia4.jpg"]
+[2025-05-06 23:18:30] Arquivo não encontrado: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-14.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia4.jpg"]
+[2025-05-06 23:18:30] Nenhum arquivo encontrado para upload.
+[2025-05-06 23:18:53] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-15.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia5.jpg"]
+[2025-05-06 23:18:53] Arquivo não encontrado: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-15.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia5.jpg"]
+[2025-05-06 23:18:53] Nenhum arquivo encontrado para upload.
+[2025-05-06 23:19:17] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-16.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia6.jpg"]
+[2025-05-06 23:19:17] Arquivo não encontrado: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-16.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia6.jpg"]
+[2025-05-06 23:19:17] Nenhum arquivo encontrado para upload.
+[2025-05-06 23:19:47] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-17.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia7.jpg"]
+[2025-05-06 23:19:47] Arquivo não encontrado: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-17.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia7.jpg"]
+[2025-05-06 23:19:47] Nenhum arquivo encontrado para upload.
+[2025-05-06 23:31:43] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-18.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia8.jpg"]
+[2025-05-06 23:31:43] Anexos encontrados: Array
+(
+    [0] => http://localhost:10008/wp-content/uploads/gravity_forms/1-c91f50deea79a5bf213d32fac8acc979/2025/05/images-18.jpg
+    [1] => http://localhost:10008/wp-content/uploads/gravity_forms/1-c91f50deea79a5bf213d32fac8acc979/2025/05/images-1-Copia8.jpg
+)
+
+[2025-05-06 23:31:43] Resposta do envio de anexo (HTTP 200): {"status":"Sucesso!","mensagem":"Processo recebido com sucesso.","recebido_em":"2025-05-06T23:31:43.921Z","dadosRecebidos":{}}
+[2025-05-06 23:34:00] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-19.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia9.jpg"]
+[2025-05-06 23:34:00] Anexos encontrados: Array
+(
+    [0] => http://localhost:10008/wp-content/uploads/gravity_forms/1-c91f50deea79a5bf213d32fac8acc979/2025/05/images-19.jpg
+    [1] => http://localhost:10008/wp-content/uploads/gravity_forms/1-c91f50deea79a5bf213d32fac8acc979/2025/05/images-1-Copia9.jpg
+)
+
+[2025-05-06 23:34:00] Resposta do envio de anexo (HTTP 500): <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>MulterError: Unexpected field<br> &nbsp; &nbsp;at wrappedFileFilter (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\multer\index.js:40:19)<br> &nbsp; &nbsp;at Multipart.&lt;anonymous&gt; (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\multer\lib\make-middleware.js:109:7)<br> &nbsp; &nbsp;at Multipart.emit (node:events:518:28)<br> &nbsp; &nbsp;at HeaderParser.cb (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:358:14)<br> &nbsp; &nbsp;at HeaderParser.push (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:162:20)<br> &nbsp; &nbsp;at SBMH.ssCb [as _cb] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:394:37)<br> &nbsp; &nbsp;at feed (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\streamsearch\lib\sbmh.js:219:14)<br> &nbsp; &nbsp;at SBMH.push (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\streamsearch\lib\sbmh.js:104:16)<br> &nbsp; &nbsp;at Multipart._write (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:567:19)<br> &nbsp; &nbsp;at writeOrBuffer (node:internal/streams/writable:572:12)</pre>
+</body>
+</html>
+
+[2025-05-06 23:35:48] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-110.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia10.jpg"]
+[2025-05-06 23:35:48] Anexos encontrados: Array
+(
+    [0] => http://localhost:10008/wp-content/uploads/gravity_forms/1-c91f50deea79a5bf213d32fac8acc979/2025/05/images-110.jpg
+    [1] => http://localhost:10008/wp-content/uploads/gravity_forms/1-c91f50deea79a5bf213d32fac8acc979/2025/05/images-1-Copia10.jpg
+)
+
+[2025-05-06 23:37:58] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-111.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia11.jpg"]
+[2025-05-06 23:37:58] Resposta do envio de anexo (HTTP 500): <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>MulterError: Unexpected field<br> &nbsp; &nbsp;at wrappedFileFilter (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\multer\index.js:40:19)<br> &nbsp; &nbsp;at Multipart.&lt;anonymous&gt; (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\multer\lib\make-middleware.js:109:7)<br> &nbsp; &nbsp;at Multipart.emit (node:events:518:28)<br> &nbsp; &nbsp;at HeaderParser.cb (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:358:14)<br> &nbsp; &nbsp;at HeaderParser.push (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:162:20)<br> &nbsp; &nbsp;at SBMH.ssCb [as _cb] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:394:37)<br> &nbsp; &nbsp;at feed (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\streamsearch\lib\sbmh.js:219:14)<br> &nbsp; &nbsp;at SBMH.push (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\streamsearch\lib\sbmh.js:104:16)<br> &nbsp; &nbsp;at Multipart._write (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:567:19)<br> &nbsp; &nbsp;at writeOrBuffer (node:internal/streams/writable:572:12)</pre>
+</body>
+</html>
+
+[2025-05-06 23:38:27] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-112.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia12.jpg"]
+[2025-05-06 23:38:27] Resposta do envio de anexo (HTTP 500): <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>MulterError: Unexpected field<br> &nbsp; &nbsp;at wrappedFileFilter (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\multer\index.js:40:19)<br> &nbsp; &nbsp;at Multipart.&lt;anonymous&gt; (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\multer\lib\make-middleware.js:109:7)<br> &nbsp; &nbsp;at Multipart.emit (node:events:518:28)<br> &nbsp; &nbsp;at HeaderParser.cb (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:358:14)<br> &nbsp; &nbsp;at HeaderParser.push (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:162:20)<br> &nbsp; &nbsp;at SBMH.ssCb [as _cb] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:394:37)<br> &nbsp; &nbsp;at feed (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\streamsearch\lib\sbmh.js:219:14)<br> &nbsp; &nbsp;at SBMH.push (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\streamsearch\lib\sbmh.js:104:16)<br> &nbsp; &nbsp;at Multipart._write (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:567:19)<br> &nbsp; &nbsp;at writeOrBuffer (node:internal/streams/writable:572:12)</pre>
+</body>
+</html>
+
+[2025-05-06 23:39:42] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/dats.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/bar.jpg"]
+[2025-05-06 23:41:06] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/fundo.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/hero_2.jpg"]
+[2025-05-06 23:41:06] Resposta do envio de anexo (HTTP 500): <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>MulterError: Unexpected field<br> &nbsp; &nbsp;at wrappedFileFilter (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\multer\index.js:40:19)<br> &nbsp; &nbsp;at Multipart.&lt;anonymous&gt; (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\multer\lib\make-middleware.js:109:7)<br> &nbsp; &nbsp;at Multipart.emit (node:events:518:28)<br> &nbsp; &nbsp;at HeaderParser.cb (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:358:14)<br> &nbsp; &nbsp;at HeaderParser.push (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:162:20)<br> &nbsp; &nbsp;at SBMH.ssCb [as _cb] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:394:37)<br> &nbsp; &nbsp;at feed (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\streamsearch\lib\sbmh.js:248:10)<br> &nbsp; &nbsp;at SBMH.push (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\streamsearch\lib\sbmh.js:104:16)<br> &nbsp; &nbsp;at Multipart._write (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\busboy\lib\types\multipart.js:567:19)<br> &nbsp; &nbsp;at writeOrBuffer (node:internal/streams/writable:572:12)</pre>
+</body>
+</html>
+
+[2025-05-06 23:43:10] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/dats1.jpg"]
+[2025-05-06 23:43:10] Resposta do envio de anexo (HTTP 500): <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>ReferenceError: Busboy is not defined<br> &nbsp; &nbsp;at D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\server.js:27:18<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\route.js:149:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\route.js:119:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\layer.js:95:5)<br> &nbsp; &nbsp;at D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\index.js:284:15<br> &nbsp; &nbsp;at Function.process_params (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\index.js:346:12)<br> &nbsp; &nbsp;at next (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\index.js:280:10)<br> &nbsp; &nbsp;at jsonParser (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\body-parser\lib\types\json.js:122:7)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\layer.js:95:5)</pre>
+</body>
+</html>
+
+[2025-05-06 23:43:38] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/dats2.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/bar1.jpg"]
+[2025-05-06 23:43:38] Resposta do envio de anexo (HTTP 500): <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>ReferenceError: Busboy is not defined<br> &nbsp; &nbsp;at D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\server.js:27:18<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\layer.js:95:5)<br> &nbsp; &nbsp;at next (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\route.js:149:13)<br> &nbsp; &nbsp;at Route.dispatch (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\route.js:119:3)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\layer.js:95:5)<br> &nbsp; &nbsp;at D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\index.js:284:15<br> &nbsp; &nbsp;at Function.process_params (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\index.js:346:12)<br> &nbsp; &nbsp;at next (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\index.js:280:10)<br> &nbsp; &nbsp;at jsonParser (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\body-parser\lib\types\json.js:122:7)<br> &nbsp; &nbsp;at Layer.handle [as handle_request] (D:\Trabalho\FormulaGroup\spmar\wp-gf-api-integration-http-server\node_modules\express\lib\router\layer.js:95:5)</pre>
+</body>
+</html>
+
+[2025-05-06 23:43:52] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-113.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images-1-Copia13.jpg"]
+[2025-05-06 23:43:52] Resposta do envio de anexo (HTTP 200): {"status":"Recebido com sucesso!"}
+[2025-05-06 23:46:16] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/images1.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/richard-sampson.jpg"]
+[2025-05-07 00:00:29] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/2111176551_preview_20200528015654_1.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/Inserir-um-titulo.jpg"]
+[2025-05-07 00:00:30] Resposta da API (HTTP 200): {"status":"Recebido com sucesso!"}
+[2025-05-07 00:01:58] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/2111176551_preview_20200528015654_11.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/Inserir-um-titulo1.jpg"]
+[2025-05-07 00:01:58] Resposta da API (HTTP 200): {"status":"Recebido com sucesso!"}
+[2025-05-07 00:04:16] Anexos encontrados: ["http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/2111176551_preview_20200528015654_12.jpg","http:\/\/localhost:10008\/wp-content\/uploads\/gravity_forms\/1-c91f50deea79a5bf213d32fac8acc979\/2025\/05\/Inserir-um-titulo2.jpg"]
+[2025-05-07 00:04:16] Resposta da API (HTTP 200): {"status":"Recebido com sucesso!"}
